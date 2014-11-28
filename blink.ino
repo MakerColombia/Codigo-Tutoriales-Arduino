@@ -5,7 +5,7 @@
   Noviembre 2013
   */
  
-// El pin digital 13 de arduino Uno R3 tiene un led conectado incorporado en la board
+// El pin digital 13 de arduino Uno R3 tiene un led conectado incorporado en la board, puede cambiar el pin por cualquiera del arduino
 
 int led = 13;
 
