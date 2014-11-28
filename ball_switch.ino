@@ -1,5 +1,5 @@
 /*
-Sensor por movimiento esfera intera, enciende el led conectado en el pin 13 al detectar pasar de cierta inclinacion
+Sensor por movimiento esfera interna, enciende el led conectado en el pin 13 al detectar pasar de un valor de inclinacion
 Conecciones:
 1- Pin OUT del sensor conectado al pin 7 del arduino.
 
